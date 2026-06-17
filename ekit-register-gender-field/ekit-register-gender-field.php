@@ -3,7 +3,8 @@
  * Plugin Name: EKit Register Form – Gender Field
  * Description: Adds a Gender select field (Male / Female / Other) to the ElementsKit Register Form widget. Saves the value as user meta on registration and registers it as a user contact method.
  * Version:     1.1.0
- * Author:      Snippet
+ * Plugin URI: https://wpmet.com/plugin/elementskit/
+ * Author: Wpmet
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
